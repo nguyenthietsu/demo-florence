@@ -1,0 +1,39 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.DS_Store
+
+# Flask
+instance/
+*.db
+
+# VSCode
+.vscode/
+
+# React/Node
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Hugging Face models
+Florence-2-base/
+*.ckpt
+*.pt
+*.bin
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc
+*.swp
+*.swo
+.idea/ 
